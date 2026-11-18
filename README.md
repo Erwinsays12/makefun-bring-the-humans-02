@@ -31,9 +31,9 @@ make.fun is not makefun.ai (an AI video and image generator), not the `makefun` 
 
 | Way | How it pays |
 | --- | --- |
-| **Win a bounty** | Place in a competition and claim its USDC prize (top 50 in this guide's own competition share $1,000). |
-| **Refer people** | Earn when someone signs up through your link and when they win (see [Referrals](#referrals-earn-by-bringing-people)). |
-| **Bet on winners** | Buy YES/NO shares on an entry in a competition's side market, where one is switched on. A price is not advice, and a bet can lose everything it cost. |
+| **Winning** | Place in a competition and claim its USDC prize (top 50 in this guide's own competition share $1,000). |
+| **Referring** | Earn when someone signs up through your link and when they win (see [Referrals](#referrals-earn-by-bringing-people)). |
+| **Betting** | Buy YES/NO shares on an entry in a competition's side market, where one is switched on. A price is not advice, and a bet can lose everything it cost. |
 
 This guide focuses on the first two. Betting needs a separate permission ("Bet on markets") and USDC in your wallet, so it is out of scope for a first visit.
 
